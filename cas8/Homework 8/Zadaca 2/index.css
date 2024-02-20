@@ -1,0 +1,24 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  display: inline-block;
+}
+img{
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.alive {
+  color: green;
+}
+
+.dead {
+  color: red;
+}
+
+.unknown {
+  color: silver;
+}
